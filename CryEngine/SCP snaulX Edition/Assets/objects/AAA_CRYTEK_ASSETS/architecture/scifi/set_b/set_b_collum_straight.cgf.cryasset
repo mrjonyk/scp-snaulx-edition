@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="42b3bfdc-4e5b-9393-2abc-71769ed06bd5">
+ <Files>
+  <File path="set_b_collum_straight.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">44</Detail>
+  <Detail name="triangleCount">546</Detail>
+  <Detail name="vertexCount">1275</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./set_b.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

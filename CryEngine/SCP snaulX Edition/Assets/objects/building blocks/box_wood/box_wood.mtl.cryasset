@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Material" guid="2c1f5c2e-4fe2-1509-49ae-0f533cce8f47">
+ <Files>
+  <File path="box_wood.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">3</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./box_wood/box_wood_diff.dds</Path>
+  <Path>./box_wood/box_wood_ddna.dds</Path>
+  <Path>./box_wood/box_wood_spec.dds</Path>
+ </Dependencies>
+</AssetMetadata>

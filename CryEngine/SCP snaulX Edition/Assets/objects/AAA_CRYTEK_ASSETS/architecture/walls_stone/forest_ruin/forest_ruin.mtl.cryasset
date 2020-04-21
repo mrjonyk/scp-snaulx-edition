@@ -1,0 +1,28 @@
+<AssetMetadata version="0" type="Material" guid="ada338ad-2540-46c1-85ac-7bdcf4251637">
+ <Files>
+  <File path="forest_ruin.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">12</Detail>
+  <Detail name="textureCount">17</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/rock_forest_moss_a_diff.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/rock_forest_moss_a_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/concrete_corner_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/concrete_corner_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/beech_leaf_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/beech_leaf_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/rock_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/rock_ddna.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/brick_raw_diff.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/brick_raw_ddna.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/brick_raw_displ.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/brick_raw_blend.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/moss_diff.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/moss_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/spruce_trunk_dead_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/spruce_trunk_dead_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/forest_ruin/textures/wood_b_detail.dds</Path>
+ </Dependencies>
+</AssetMetadata>

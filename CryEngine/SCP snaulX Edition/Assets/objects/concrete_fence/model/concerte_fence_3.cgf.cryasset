@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Mesh" guid="{E1862265-5064-A344-6801-1A9B2818532F}">
+  <Files>
+   <File path="concerte_fence_3.cgf"/>
+  </Files>
+  <Details>
+   <Detail name="materialCount">3</Detail>
+   <Detail name="triangleCount">387</Detail>
+   <Detail name="vertexCount">497</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

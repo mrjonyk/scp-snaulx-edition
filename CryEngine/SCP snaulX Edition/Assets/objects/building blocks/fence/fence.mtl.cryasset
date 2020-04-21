@@ -1,0 +1,17 @@
+<AssetMetadata version="0" type="Material" guid="22c826e5-f6c5-3b09-a590-2de026419df8">
+ <Files>
+  <File path="fence.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">2</Detail>
+  <Detail name="textureCount">6</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./box_diff.dds</Path>
+  <Path>./box_ddna.dds</Path>
+  <Path>./box_spec.dds</Path>
+  <Path>./fence_diff.dds</Path>
+  <Path>./fance_ddna.dds</Path>
+  <Path>./fence_spec.dds</Path>
+ </Dependencies>
+</AssetMetadata>

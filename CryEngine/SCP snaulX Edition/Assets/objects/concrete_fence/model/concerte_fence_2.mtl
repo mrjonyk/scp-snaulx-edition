@@ -1,0 +1,19 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="Material #35" MtlFlags="524416" Shader="Illum" GenMask="2A400000" StringGenMask="%NORMAL_MAP%OFFSET_BUMP_MAPPING%PARALLAX_OCCLUSION_MAPPING%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="MyAssets/fence/texture/fence_concrete_defff.tif"/>
+    <Texture Map="Bumpmap" File="MyAssets/fence/texture/fence_concrete_norm.tif"/>
+    <Texture Map="Heightmap" File="MyAssets/fence/texture/fence_concrete_high.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" PomDisplacement="0.025" SSSIndex="0" SelfShadowStrength="3" ObmDisplacement="0.0040000002" HeightBias="1"/>
+  </Material>
+  <Material Name="Material #47" MtlFlags="524416" Shader="Illum" GenMask="20000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="MyAssets/fence/texture/met.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="16f9d0d0-2a01-a094-e538-157b4196c13f" source="fence_spec.tif">
+ <Files>
+  <File path="fence_spec.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

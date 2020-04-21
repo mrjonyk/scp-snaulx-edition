@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Texture" guid="afe8bf4f-812c-f1d0-c7f2-e4f8aa6ccbcb" source="barrel_cap_diffuse.tif">
+  <Files>
+   <File path="barrel_cap_diffuse.dds"/>
+  </Files>
+  <Details>
+   <Detail name="width">512</Detail>
+   <Detail name="height">512</Detail>
+   <Detail name="mipCount">8</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

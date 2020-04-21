@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="dad1081a-00c0-8879-6a24-21ac5751e463">
+ <Files>
+  <File path="tube.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">1</Detail>
+  <Detail name="triangleCount">1504</Detail>
+  <Detail name="vertexCount">1390</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./tube.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

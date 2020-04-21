@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="fa16cab8-7913-c5ad-3f26-7ea8e46b920a" source="box_spec.tif">
+ <Files>
+  <File path="box_spec.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">4096</Detail>
+  <Detail name="height">4096</Detail>
+  <Detail name="mipCount">11</Detail>
+ </Details>
+</AssetMetadata>

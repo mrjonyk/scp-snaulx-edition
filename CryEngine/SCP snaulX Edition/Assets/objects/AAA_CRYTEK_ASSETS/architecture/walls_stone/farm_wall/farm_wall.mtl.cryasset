@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Material" guid="15b8a788-a941-6dbd-fdaa-79adb8d484e4">
+ <Files>
+  <File path="farm_wall.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">4</Detail>
+  <Detail name="textureCount">5</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/farm_wall/textures/brick_rough01_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/farm_wall/textures/brick_rough01_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/farm_wall/textures/brick_rough01_displ.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/farm_wall/textures/brick_old_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/walls_stone/farm_wall/textures/brick_old_ddna.dds</Path>
+ </Dependencies>
+</AssetMetadata>

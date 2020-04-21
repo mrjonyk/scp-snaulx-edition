@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="1408a3c5-818a-6861-cf3e-36aed63e4418">
+ <Files>
+  <File path="fence.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">3</Detail>
+  <Detail name="triangleCount">328</Detail>
+  <Detail name="vertexCount">592</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./fance_1.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

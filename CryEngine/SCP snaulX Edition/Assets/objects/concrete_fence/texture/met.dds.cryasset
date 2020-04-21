@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Texture" guid="9fa2ac44-4254-5bdc-cb15-1e86d60a6f6f" source="met.tif">
+  <Files>
+   <File path="met.dds"/>
+  </Files>
+  <Details>
+   <Detail name="width">1000</Detail>
+   <Detail name="height">1000</Detail>
+   <Detail name="mipCount">1</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Material" guid="b25a905c-f2f4-6081-320b-e5f099cbbabf">
+ <Files>
+  <File path="tube_b.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">3</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./tube_b/tube_b_diff.dds</Path>
+  <Path>./tube_b/tube_b_ddna.dds</Path>
+  <Path>./tube_b/tube_b_spec.dds</Path>
+ </Dependencies>
+</AssetMetadata>

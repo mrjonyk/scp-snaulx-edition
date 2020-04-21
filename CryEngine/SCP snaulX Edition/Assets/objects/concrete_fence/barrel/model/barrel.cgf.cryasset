@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Mesh" guid="{94F79EC4-D624-B4C0-580B-C8237588576E}">
+  <Files>
+   <File path="barrel.cgf"/>
+  </Files>
+  <Details>
+   <Detail name="materialCount">4</Detail>
+   <Detail name="triangleCount">524</Detail>
+   <Detail name="vertexCount">504</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

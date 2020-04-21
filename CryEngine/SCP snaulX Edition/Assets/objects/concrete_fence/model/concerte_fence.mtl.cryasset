@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Material" guid="babb5382-7f78-d4e9-8296-1933a9365441">
+ <Files>
+  <File path="concerte_fence.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">3</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">MyAssets/fence/texture/fence_concrete_defff.dds</Path>
+  <Path usageCount="1">MyAssets/fence/texture/fence_concrete_norm.dds</Path>
+  <Path usageCount="1">MyAssets/fence/texture/fence_concrete_high.dds</Path>
+ </Dependencies>
+</AssetMetadata>

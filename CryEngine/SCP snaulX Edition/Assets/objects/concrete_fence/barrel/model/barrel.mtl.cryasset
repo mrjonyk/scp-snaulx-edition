@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Material" guid="69b55c33-20bd-dfaa-2735-c2b158f4a7b0">
+ <Files>
+  <File path="barrel.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">3</Detail>
+  <Detail name="textureCount">5</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">MyAssets/fence/barrel/texture/barrel_cap_Diffuse.dds</Path>
+  <Path usageCount="1">MyAssets/fence/barrel/texture/barrel_in_Diffuse.dds</Path>
+  <Path usageCount="1">MyAssets/fence/barrel/texture/barrel_out_Diffuse.dds</Path>
+  <Path usageCount="1">MyAssets/fence/barrel/texture/barrel_out_Normal.dds</Path>
+  <Path usageCount="1">MyAssets/fence/barrel/texture/barrel_out_Height.dds</Path>
+ </Dependencies>
+</AssetMetadata>

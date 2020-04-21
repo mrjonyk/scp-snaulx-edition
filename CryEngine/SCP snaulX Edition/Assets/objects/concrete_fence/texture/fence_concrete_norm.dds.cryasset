@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Texture" guid="95ae1190-ed55-dd65-3f38-765a4b60c0a5" source="fence_concrete_norm.tif">
+  <Files>
+   <File path="fence_concrete_norm.dds"/>
+  </Files>
+  <Details>
+   <Detail name="width">1024</Detail>
+   <Detail name="height">1024</Detail>
+   <Detail name="mipCount">1</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

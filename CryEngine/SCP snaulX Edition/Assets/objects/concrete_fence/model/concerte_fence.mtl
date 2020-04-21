@@ -1,0 +1,8 @@
+<Material MtlFlags="524288" Shader="Illum" GenMask="2A400000" StringGenMask="%NORMAL_MAP%OFFSET_BUMP_MAPPING%PARALLAX_OCCLUSION_MAPPING%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.58823532,0.58823532,0.58823532" Specular="0,0,0" Opacity="1" Shininess="9.999999" vertModifType="0" LayerAct="1">
+ <Textures>
+  <Texture Map="Diffuse" File="MyAssets/fence/texture/fence_concrete_defff.tif"/>
+  <Texture Map="Bumpmap" File="MyAssets/fence/texture/fence_concrete_norm.tif"/>
+  <Texture Map="Heightmap" File="MyAssets/fence/texture/fence_concrete_high.tif"/>
+ </Textures>
+ <PublicParams EmittanceMapGamma="1" PomDisplacement="0.0255" SSSIndex="0" SelfShadowStrength="3.6689999" ObmDisplacement="0.0046000001" HeightBias="1"/>
+</Material>

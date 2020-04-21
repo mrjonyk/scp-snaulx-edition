@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Texture" guid="dc342aa4-4120-3859-bfab-879df686a048">
+ <Files>
+  <File path="rock_forest_moss_a_diff.dds"/>
+  <File path="rock_forest_moss_a_diff.dds.1"/>
+  <File path="rock_forest_moss_a_diff.dds.2"/>
+  <File path="rock_forest_moss_a_diff.dds.3"/>
+  <File path="rock_forest_moss_a_diff.dds.4"/>
+  <File path="rock_forest_moss_a_diff.dds.5"/>
+  <File path="rock_forest_moss_a_diff.dds.6"/>
+ </Files>
+ <Details>
+  <Detail name="width">1024</Detail>
+  <Detail name="height">1024</Detail>
+  <Detail name="mipCount">9</Detail>
+ </Details>
+</AssetMetadata>

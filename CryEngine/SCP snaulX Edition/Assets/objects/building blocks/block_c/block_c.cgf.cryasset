@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="698fc268-c0fe-8a16-4658-13ac80bc5900">
+ <Files>
+  <File path="block_c.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">1</Detail>
+  <Detail name="triangleCount">796</Detail>
+  <Detail name="vertexCount">786</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./block_c.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

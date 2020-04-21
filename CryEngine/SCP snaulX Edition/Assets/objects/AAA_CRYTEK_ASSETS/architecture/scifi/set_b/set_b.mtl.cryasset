@@ -1,0 +1,29 @@
+<AssetMetadata version="0" type="Material" guid="c342a31f-262e-6b72-9598-e841a8ca07d8">
+ <Files>
+  <File path="set_b.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">20</Detail>
+  <Detail name="textureCount">18</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/glow_fade_diff.dds</Path>
+  <Path usageCount="4">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/fluid_diff.dds</Path>
+  <Path usageCount="14">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/white_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/wet_glass01_ddn.dds</Path>
+  <Path usageCount="6">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/gloss80_ddna.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/iron_spec.dds</Path>
+  <Path usageCount="2">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/glow_ring.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/grey_128_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/rubber_floor_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/asphalt_2_detail.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/rubber_floor_displ.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/polished_wood_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/metal_005_detail.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/grass_c_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/grass_c_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/grunge_dirt_a_diff.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/grunge_dirt_a_ddna.dds</Path>
+  <Path usageCount="1">objects/AAA_CRYTEK_ASSETS/architecture/scifi/set_b/textures/daub_rough_wood_mask.dds</Path>
+ </Dependencies>
+</AssetMetadata>

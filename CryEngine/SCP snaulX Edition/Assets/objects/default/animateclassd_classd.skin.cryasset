@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="SkinnedMesh" guid="ab107fe5-9de0-cd2d-7c1f-fc2724925bad" source="animateclassd.fbx">
+ <Files>
+  <File path="animateclassd_classd.skin"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">1394</Detail>
+  <Detail name="vertexCount">1014</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+  <Detail name="bonesCount">28</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./animateclassd.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

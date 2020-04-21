@@ -1,0 +1,12 @@
+<cryasset>
+ <AssetMetadata version="0" type="Texture" guid="63a11e62-3a66-f9a3-caa2-b2fde78cdb4a" source="barrel_in_height.tif">
+  <Files>
+   <File path="barrel_in_height.dds"/>
+  </Files>
+  <Details>
+   <Detail name="width">512</Detail>
+   <Detail name="height">512</Detail>
+   <Detail name="mipCount">8</Detail>
+  </Details>
+ </AssetMetadata>
+</cryasset>

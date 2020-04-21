@@ -1,0 +1,83 @@
+<AssetMetadata version="0" type="Level" guid="98e0d27e-fa2e-8e3d-c5c2-24c1ee67dea3" source="" timestamp="1587467305">
+ <Files>
+  <File path="example/example.level"/>
+ </Files>
+ <Dependencies>
+  <Path usageCount="1">%ENGINE%/EngineAssets/Shading/default.env</Path>
+  <Path>%editor%/crydesigner_timeofday.xml</Path>
+  <Path>%editor%/leveltemplates.xml</Path>
+  <Path>%editor%/mapscreenshotsettings.xml</Path>
+  <Path>%editor%/mbttemplates.xml</Path>
+  <Path>%editor%/modellingpanel.xml</Path>
+  <Path>%editor%/objects/mtlobjects.mtl</Path>
+  <Path>%editor%/objects/mtlsphere.cgf</Path>
+  <Path>%editor%/objecttemplates.xml</Path>
+  <Path>%editor%/propertyenumerations.xml</Path>
+  <Path>%editor%/soundtemplates.xml</Path>
+  <Path>%editor%/toolbox.xml</Path>
+  <Path>%editor%/usertools.xml</Path>
+  <Path>%engine%/engineassets/icons/averagememoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/highmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/icons/livepreview.dds</Path>
+  <Path>%engine%/engineassets/icons/lowmemoryusage.dds</Path>
+  <Path>%engine%/engineassets/materials/fog/fogvolumebox.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/fogvolumeellipsoid.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceaninto.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanintolowspec.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanoutof.mtl</Path>
+  <Path>%engine%/engineassets/materials/fog/oceanoutoflowspec.mtl</Path>
+  <Path>%engine%/engineassets/materials/material_terrain_default.mtl</Path>
+  <Path>%engine%/engineassets/materials/water/ocean_default.mtl</Path>
+  <Path>%engine%/engineassets/materials/water/wateroceanbottom.mtl</Path>
+  <Path>%engine%/engineassets/objects/primitive_sphere.cgf</Path>
+  <Path>%engine%/engineassets/texturemsg/defaultnouvs.dds</Path>
+  <Path>%engine%/engineassets/textures/grey.dds</Path>
+  <Path>%engine%/engineassets/textures/skys/night/half_moon.dds</Path>
+  <Path>editor/resourcecache/objects/generator/generator [diffuse].dds</Path>
+  <Path>engineassets/textures/grey.dds</Path>
+  <Path>objects/building blocks/block_a/block_a1/block_a_ddna.dds</Path>
+  <Path>objects/building blocks/block_a/block_a1/block_a_diff.dds</Path>
+  <Path>objects/building blocks/block_a/block_a1/block_a_spec.dds</Path>
+  <Path>objects/building blocks/block_a/block_a2.mtl</Path>
+  <Path>objects/building blocks/block_a/block_a3.mtl</Path>
+  <Path>objects/building blocks/block_b/block_b.cgf</Path>
+  <Path>objects/building blocks/block_c/block_c.cgf</Path>
+  <Path>objects/building blocks/block_c/block_c2.mtl</Path>
+  <Path>objects/building blocks/block_c/block_c3.mtl</Path>
+  <Path>objects/building blocks/block_d/block_d.cgf</Path>
+  <Path>objects/building blocks/block_d/block_d2.mtl</Path>
+  <Path>objects/building blocks/box_wood/boxwood.cgf</Path>
+  <Path>objects/building blocks/fence/fence.cgf</Path>
+  <Path>objects/building blocks/fence/fence.mtl</Path>
+  <Path>objects/building blocks/tube/tube.cgf</Path>
+  <Path>objects/building blocks/tube/tube_a/tube_a_ddna.dds</Path>
+  <Path>objects/building blocks/tube/tube_a/tube_a_spec.dds</Path>
+  <Path>objects/building blocks/tube/tube_b.mtl</Path>
+  <Path>objects/concrete_fence/model/concerte_fence.cgf</Path>
+  <Path>objects/concrete_fence/model/concerte_fence.mtl</Path>
+  <Path>objects/concrete_fence/model/concerte_fence_2.cgf</Path>
+  <Path>objects/concrete_fence/model/concerte_fence_2.mtl</Path>
+  <Path>objects/default/animateclassd.cdf</Path>
+  <Path>objects/default/animateclassd.cgf</Path>
+  <Path>objects/default/plane.mtl</Path>
+  <Path>objects/default/primitive_box.cgf</Path>
+  <Path>objects/default/primitive_box_noproxy.cgf</Path>
+  <Path>objects/default/primitive_cube.cgf</Path>
+  <Path>objects/default/primitive_cube_noproxy.cgf</Path>
+  <Path>objects/default/primitive_cube_small.cgf</Path>
+  <Path>objects/default/primitive_cylinder.cgf</Path>
+  <Path>objects/default/primitive_cylinder_noproxy.cgf</Path>
+  <Path>objects/default/primitive_plane_noproxy.cgf</Path>
+  <Path>objects/default/primitive_plane_small.cgf</Path>
+  <Path>objects/default/primitive_pyramid.cgf</Path>
+  <Path>objects/default/primitive_pyramid_noproxy.cgf</Path>
+  <Path>objects/default/primitive_sphere.cgf</Path>
+  <Path>objects/default/primitive_sphere_noproxy.cgf</Path>
+  <Path>objects/default/primitive_sphere_small.cgf</Path>
+  <Path>objects/default/sphere.mtl</Path>
+  <Path>objects/default/ui.mtl</Path>
+  <Path>objects/generator/generator [diffuse].dds</Path>
+  <Path>objects/generator/generator.cgf</Path>
+  <Path>objects/generator/generator.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Character" guid="510cfe62-3e24-66c8-48f4-f3034eb3793d">
+ <Files>
+  <File path="animateclassd.cdf"/>
+ </Files>
+ <Details />
+ <Dependencies>
+  <Path>objects/default/animateclassd.chr</Path>
+  <Path>objects/default/animateclassd_classd.skin</Path>
+ </Dependencies>
+</AssetMetadata>

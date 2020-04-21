@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Material" guid="63b0e960-62fe-8f22-bda1-d8804d752111">
+ <Files>
+  <File path="block_a3.mtl"/>
+ </Files>
+ <Details>
+  <Detail name="subMaterialCount">0</Detail>
+  <Detail name="textureCount">3</Detail>
+ </Details>
+ <Dependencies>
+  <Path>./block_a3/block_a3_diff.dds</Path>
+  <Path>./block_a3/block_a3_ddna.dds</Path>
+  <Path>./block_a3/block_a3_spec.dds</Path>
+ </Dependencies>
+</AssetMetadata>

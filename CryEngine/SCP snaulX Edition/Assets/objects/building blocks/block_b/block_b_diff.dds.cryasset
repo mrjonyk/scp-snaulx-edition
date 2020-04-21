@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="88195f77-2a96-e8d2-3523-edc896ceb12f" source="block_b_diff.tif">
+ <Files>
+  <File path="block_b_diff.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

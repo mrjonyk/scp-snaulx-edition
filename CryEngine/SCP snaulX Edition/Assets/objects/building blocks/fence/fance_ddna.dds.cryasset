@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="34266a9c-5698-e21b-bd0a-ab46b0a9617d" source="fance_ddna.tif">
+ <Files>
+  <File path="fance_ddna.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

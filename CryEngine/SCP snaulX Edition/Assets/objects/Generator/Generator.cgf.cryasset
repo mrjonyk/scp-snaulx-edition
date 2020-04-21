@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="609e1831-3069-cba6-765e-bee0a9d99dcf">
+ <Files>
+  <File path="Generator.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">3</Detail>
+  <Detail name="triangleCount">2262</Detail>
+  <Detail name="vertexCount">2536</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./01 - Default.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

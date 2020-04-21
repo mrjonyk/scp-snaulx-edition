@@ -1,0 +1,16 @@
+<AssetMetadata version="0" type="Texture" guid="8b111aec-80aa-9132-242a-2565e2a0a6da">
+ <Files>
+  <File path="glow_fade_diff.dds"/>
+  <File path="glow_fade_diff.dds.1"/>
+  <File path="glow_fade_diff.dds.2"/>
+  <File path="glow_fade_diff.dds.3"/>
+  <File path="glow_fade_diff.dds.4"/>
+  <File path="glow_fade_diff.dds.5"/>
+  <File path="glow_fade_diff.dds.6"/>
+ </Files>
+ <Details>
+  <Detail name="width">1024</Detail>
+  <Detail name="height">1024</Detail>
+  <Detail name="mipCount">9</Detail>
+ </Details>
+</AssetMetadata>

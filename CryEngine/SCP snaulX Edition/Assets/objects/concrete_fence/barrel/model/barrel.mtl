@@ -1,0 +1,25 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="Material #59" MtlFlags="524416" Shader="Illum" GenMask="2028400000" StringGenMask="%NORMAL_MAP%PARALLAX_OCCLUSION_MAPPING%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Opacity="1" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="MyAssets/fence/barrel/texture/barrel_out_Diffuse.tif"/>
+    <Texture Map="Bumpmap" File="MyAssets/fence/barrel/texture/barrel_out_Normal.tif"/>
+    <Texture Map="Heightmap" File="MyAssets/fence/barrel/texture/barrel_out_Height.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" PomDisplacement="0.0044" SSSIndex="0" SelfShadowStrength="0.93099999" HeightBias="1"/>
+  </Material>
+  <Material Name="Material #60" MtlFlags="524416" Shader="Illum" GenMask="20000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="MyAssets/fence/barrel/texture/barrel_in_Diffuse.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="Material #61" MtlFlags="524416" Shader="Illum" GenMask="20000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="MyAssets/fence/barrel/texture/barrel_cap_Diffuse.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

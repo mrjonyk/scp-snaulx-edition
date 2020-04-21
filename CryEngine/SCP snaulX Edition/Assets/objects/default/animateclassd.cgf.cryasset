@@ -1,0 +1,14 @@
+<AssetMetadata version="0" type="Mesh" guid="d2848e2b-895a-a06a-a0e6-0aa4a62e280c" source="animateclassd.fbx">
+ <Files>
+  <File path="animateclassd.cgf"/>
+ </Files>
+ <Details>
+  <Detail name="materialCount">2</Detail>
+  <Detail name="triangleCount">1394</Detail>
+  <Detail name="vertexCount">1014</Detail>
+  <Detail name="16BitPrecision">false</Detail>
+ </Details>
+ <Dependencies>
+  <Path usageCount="1">./animateclassd.mtl</Path>
+ </Dependencies>
+</AssetMetadata>

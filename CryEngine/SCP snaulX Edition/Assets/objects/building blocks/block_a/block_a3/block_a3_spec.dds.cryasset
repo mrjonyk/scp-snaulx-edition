@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="e8858563-6063-e5ed-49f9-166e3cdf963e" source="block_a3_spec.tif">
+ <Files>
+  <File path="block_a3_spec.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>

@@ -1,0 +1,15 @@
+<AssetMetadata version="0" type="Texture" guid="09eb4d77-e6e7-1767-9287-53103be08e1f">
+ <Files>
+  <File path="beech_leaf_diff.dds"/>
+  <File path="beech_leaf_diff.dds.1"/>
+  <File path="beech_leaf_diff.dds.2"/>
+  <File path="beech_leaf_diff.dds.3"/>
+  <File path="beech_leaf_diff.dds.4"/>
+  <File path="beech_leaf_diff.dds.5"/>
+ </Files>
+ <Details>
+  <Detail name="width">512</Detail>
+  <Detail name="height">512</Detail>
+  <Detail name="mipCount">8</Detail>
+ </Details>
+</AssetMetadata>

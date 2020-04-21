@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="9b2a3d23-befe-937a-7421-272e7df14672" source="tube_b_spec.tif">
+ <Files>
+  <File path="tube_b_spec.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">2048</Detail>
+  <Detail name="height">2048</Detail>
+  <Detail name="mipCount">10</Detail>
+ </Details>
+</AssetMetadata>
